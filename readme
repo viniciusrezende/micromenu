@@ -1,0 +1,8 @@
+main with micromenu by Vinicius Rezende
+edit 'menu' file to add new entries
+see the examples for categories
+
+syntax: (display name)|(workdir)|(executable)|parms
+
+parms:
+--keep: make the executable stay even when closed.

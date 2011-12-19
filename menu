@@ -1,0 +1,5 @@
+openBOR|/usr/local/emulators/OpenBOR|./OpenBOR.dge
+psx4all|/usr/local/emulators/psx4all|./psx4all
+Menus|/usr/local/sbin|./main menu-inc
+Samples|/usr/local/sbin|./main samples-inc
+Reboot|/|reboot
